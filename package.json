@@ -3,7 +3,7 @@
   "description": "Brightfox sfdx library",
   "version": "0.0.0",
   "author": "Tom Jaspers",
-  "bugs": "https://github.com/WebstormProjects/blib/issues",
+  "bugs": "https://github.com/TJaspers-SF/blib/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
@@ -36,7 +36,7 @@
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
-  "homepage": "https://github.com/WebstormProjects/blib",
+  "homepage": "https://github.com/TJaspers-SF/blib",
   "keywords": [
     "sfdx-plugin"
   ],
@@ -53,7 +53,7 @@
       "@oclif/plugin-help"
     ]
   },
-  "repository": "WebstormProjects/blib",
+  "repository": "https://github.com/TJaspers-SF/blib",
   "scripts": {
     "lint": "tslint --project . --config tslint.json --format stylish",
     "postpack": "rm -f oclif.manifest.json",
